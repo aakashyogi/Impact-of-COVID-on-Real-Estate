@@ -1,0 +1,195 @@
+city,title,location,price(L),rate_persqft,area_insqft,building_status,last_updated_date
+Mumbai,2 BHK Apartment,Andheri East,218.00000000000003,26000,842,Ready to move,2020-01-24
+Mumbai,1 BHK Apartment,Andheri East,52.71,12375,426,Ready to move,2020-01-24
+Mumbai,2 BHK Apartment,Andheri East,155.0,14285,1085,Ready to move,2020-01-16
+Mumbai,3 BHK Apartment,Andheri East,248.0,22125,1124,Under Construction,2020-01-16
+Mumbai,1 BHK Apartment,Andheri East,100.0,13774,726,Ready to move,2020-01-16
+Mumbai,1 BHK Apartment,Andheri East,130.0,16624,782,Ready to move,2020-01-16
+Mumbai,1 BHK Apartment,Andheri East,104.0,15156,689,Under Construction,2020-01-16
+Mumbai,2 BHK Apartment,Andheri East,230.0,20852,1103,Under Construction,2020-01-16
+Mumbai,2 BHK Apartment,Andheri East,218.00000000000003,15982,1364,Under Construction,2020-01-16
+Mumbai,2 BHK Apartment,Andheri East,172.0,13969,1237,Ready to move,2020-01-16
+Mumbai,2 BHK Apartment,Andheri East,198.0,19411,1020,Ready to move,2020-01-16
+Mumbai,3 BHK Apartment,Andheri East,240.0,14018,1712,Ready to move,2020-01-16
+Mumbai,2 BHK Apartment,Andheri East,244.0,18033,1353,Ready to move,2020-01-16
+Mumbai,2 BHK Apartment,Andheri East,170.0,15496,1097,Under Construction,2020-01-16
+Mumbai,1 BHK Apartment,Andheri East,100.0,14144,707,Under Construction,2020-01-16
+Mumbai,2 BHK Apartment,Andheri West,360.0,44280,813,Under Construction,2020-01-24
+Mumbai,3 BHK Apartment,Andheri West,540.0,40419,1336,Under Construction,2020-01-24
+Mumbai,4 BHK Apartment,Andheri West,999.0,45724,2187,Under Construction,2020-01-24
+Mumbai,3 BHK Apartment,Andheri West,600.0,35398,1695,Ready to move,2020-01-16
+Mumbai,3 BHK Apartment,Andheri West,310.0,19375,1600,Ready to move,2020-01-16
+Mumbai,3 BHK Apartment,Andheri West,510.0,28911,1764,Ready to move,2020-01-16
+Mumbai,4 BHK Apartment,Andheri West,1493.0,45938,3250,Ready to move,2020-01-15
+Mumbai,3 BHK Apartment,Andheri West,1225.0,43750,2800,Ready to move,2020-01-15
+Mumbai,5 BHK Apartment,Andheri West,1940.0,47317,4100,Ready to move,2020-01-15
+Mumbai,3 BHK Apartment,Andheri West,252.0,24576,1027,Under Construction,2020-01-15
+Mumbai,3 BHK Apartment,Andheri West,1098.0,42230,2600,Ready to move,2020-01-15
+Mumbai,3 BHK Apartment,Andheri West,450.0,32028,1405,Ready to move,2020-01-16
+Mumbai,3 BHK Apartment,Andheri West,550.0,30219,1820,Ready to move,2020-01-16
+Mumbai,3 BHK Apartment,Andheri West,315.0,22419,1405,Ready to move,2020-01-16
+Mumbai,2 BHK Apartment,Andheri West,165.0,13200,1250,Ready to move,2020-01-16
+Mumbai,3 BHK Apartment,Andheri West,450.0,32051,1404,Ready to move,2020-01-16
+Mumbai,3 BHK Apartment,Bandra East,799.0,53877,1483,Ready to move,2020-01-15
+Mumbai,3 BHK Apartment,Bandra East,700.0,36842,1900,Ready to move,2020-01-16
+Mumbai,3 BHK Apartment,Bandra East,710.0,34855,2037,Ready to move,2020-01-16
+Mumbai,4 BHK Apartment,Bandra East,850.0,39627,2145,Ready to move,2020-01-16
+Mumbai,4 BHK Apartment,Bandra East,1011.0,42301,2390,Ready to move,2020-01-16
+Mumbai,4 BHK Apartment,Bandra East,1100.0,64327,1710,Under Construction,2020-01-15
+Mumbai,3 BHK Apartment,Bandra East,841.0,52398,1605,Ready to move,2020-01-15
+Mumbai,4 BHK Apartment,Bandra East,869.9999999999999,47463,1833,Ready to move,2020-01-15
+Mumbai,3 BHK Apartment,Bandra East,240.0,25263,950,Ready to move,2020-01-15
+Mumbai,1 BHK Apartment,Bandra East,170.0,28099,605,Ready to move,2020-01-24
+Mumbai,3 BHK Apartment,Bandra West,625.0,41666,1500,Ready to move,2020-01-15
+Mumbai,3 BHK Apartment,Bandra West,550.0,28947,1900,Ready to move,2020-01-15
+Mumbai,3 BHK Apartment,Bandra West,725.0,41428,1750,Ready to move,2020-01-15
+Mumbai,3 BHK Apartment,Bandra West,734.0,40552,1810,Ready to move,2020-01-16
+Mumbai,5 BHK Villa,Bandra West,5000.0,129870,3850,Ready to move,2020-01-16
+Mumbai,3 BHK Apartment,Bandra West,800.0,63241,1265,Ready to move,2020-01-16
+Mumbai,2 BHK Apartment,Bandra West,450.0,35294,1275,Ready to move,2020-01-15
+Mumbai,2 BHK Apartment,Bandra West,1200.0,97560,1230,Ready to move,2020-01-15
+Mumbai,2 BHK Apartment,Bandra West,470.0,37183,1264,Ready to move,2020-01-15
+Mumbai,2 BHK Apartment,Bandra West,375.0,33333,1125,Ready to move,2020-01-15
+Mumbai,2 BHK Apartment,Bandra West,450.0,40909,1100,Ready to move,2020-01-15
+Mumbai,3 BHK Apartment,Bandra West,599.0,47352,1265,Under Construction,2020-01-24
+Mumbai,2 BHK Apartment,Borivali East,200.0,20597,971,Under Construction,2020-01-15
+Mumbai,3 BHK Apartment,Borivali East,275.0,21121,1302,Under Construction,2020-01-15
+Mumbai,2 BHK Apartment,Borivali East,198.0,21313,929,Under Construction,2020-01-15
+Mumbai,3 BHK Apartment,Borivali East,285.0,16618,1715,Ready to move,2020-01-15
+Mumbai,2 BHK Apartment,Borivali East,170.0,13535,1256,Ready to move,2020-01-15
+Mumbai,1 BHK Apartment,Borivali East,65.0,21666,300,Ready to move,2020-01-15
+Mumbai,1 BHK Apartment,Borivali East,92.0,16727,550,Ready to move,2020-01-15
+Mumbai,2 BHK Apartment,Borivali East,180.0,14342,1255,Ready to move,2020-01-15
+Mumbai,1 BHK Apartment,Borivali East,30.0,6666,450,Ready to move,2020-01-15
+Mumbai,2 BHK Apartment,Borivali East,150.0,16666,900,Ready to move,2020-01-15
+Mumbai,1 BHK Apartment,Borivali East,100.0,15384,650,Ready to move,2020-01-15
+Mumbai,4 BHK Apartment,Borivali East,413.0,19855,2080,Under Construction,2020-01-15
+Mumbai,3 BHK Apartment,Borivali East,328.0,23066,1422,Under Construction,2020-01-15
+Mumbai,3 BHK Apartment,Borivali West,380.0,12666,3000,Ready to move,2020-01-24
+Mumbai,2 BHK Apartment,Borivali West,230.0,23000,1000,Ready to move,2020-01-15
+Mumbai,2 BHK Apartment,Borivali West,170.0,23129,735,Under Construction,2020-01-15
+Mumbai,1 BHK Apartment,Borivali West,100.0,15384,650,Ready to move,2020-01-15
+Mumbai,2 BHK Apartment,Borivali West,225.0,16666,1350,Ready to move,2020-01-15
+Mumbai,1 BHK Apartment,Borivali West,110.0,18333,600,Ready to move,2020-01-15
+Mumbai,3 BHK Apartment,Dadar East,622.0,33297,1868,Ready to move,2020-01-16
+Mumbai,4 BHK Apartment,Dadar East,866.0,35736,2425,Ready to move,2020-01-16
+Mumbai,2 BHK Apartment,Dadar East,370.0,38947,950,Ready to move,2020-01-15
+Mumbai,4 BHK Apartment,Dadar East,745.0,36341,2050,Under Construction,2020-01-15
+Mumbai,2 BHK Apartment,Dadar East,340.0,35789,950,Under Construction,2020-01-15
+Mumbai,2 BHK Apartment,Dadar East,325.0,34210,950,Under Construction,2020-01-15
+Mumbai,2 BHK Apartment,Dadar East,335.0,35263,950,Under Construction,2020-01-15
+Mumbai,2 BHK Apartment,Dadar East,345.0,36315,950,Under Construction,2020-01-15
+Mumbai,4 BHK Apartment,Dadar East,826.0,26007,3176,Ready to move,2020-01-15
+Mumbai,2 BHK Apartment,Dadar East,366.0,40131,912,Under Construction,2020-01-15
+Mumbai,2 BHK Apartment,Dadar East,366.0,44634,820,Under Construction,2020-01-15
+Mumbai,3 BHK Apartment,Dadar East,700.0,29166,2400,Ready to move,2020-01-15
+Mumbai,2 BHK Apartment,Dadar West,240.0,29629,810,Ready to move,2020-01-15
+Mumbai,2 BHK Apartment,Dadar West,275.0,23031,1194,Ready to move,2020-01-24
+Mumbai,4 BHK Apartment,Dadar West,850.0,42500,2000,Ready to move,2020-01-15
+Mumbai,3 BHK Apartment,Dadar West,365.0,25324,1445,Under Construction,2020-01-15
+Mumbai,3 BHK Apartment,Dadar West,352.0,24929,1412,Under Construction,2020-02-26
+Mumbai,2 BHK Apartment,Dadar West,325.0,33163,980,Ready to move,2020-01-15
+Mumbai,2 BHK Apartment,Dombivli East,45.0,5813,774,Ready to move,2020-01-15
+Mumbai,1 BHK Apartment,Dombivli East,41.0,6307,650,Under Construction,2020-01-15
+Mumbai,3 BHK Apartment,Dombivli East,65.7,6989,940,Under Construction,2020-01-15
+Mumbai,2 BHK Apartment,Dombivli East,55.48,6290,882,Under Construction,2020-01-15
+Mumbai,2 BHK Apartment,Dombivli East,55.1,6333,870,Under Construction,2020-01-15
+Mumbai,2 BHK Apartment,Dombivli East,54.97,6318,870,Under Construction,2020-01-15
+Mumbai,2 BHK Apartment,Dombivli East,54.85,6355,863,Under Construction,2020-01-15
+Mumbai,1 BHK Apartment,Dombivli East,41.1,6303,652,Under Construction,2020-01-15
+Mumbai,1 BHK Apartment,Dombivli East,41.3,6267,659,Under Construction,2020-01-15
+Mumbai,2 BHK Apartment,Dombivli East,41.94,5446,770,Under Construction,2020-01-15
+Mumbai,2 BHK Apartment,Dombivli East,55.98,6434,870,Under Construction,2020-01-15
+Mumbai,1 BHK Apartment,Dombivli East,41.21,6292,655,Under Construction,2020-01-24
+Mumbai,1 BHK Apartment,Dombivli East,30.0,5000,600,Ready to move,2020-01-24
+Mumbai,1 BHK Apartment,Dombivli East,24.02,4071,590,Ready to move,2020-01-24
+Mumbai,1 BHK Apartment,Dombivli East,34.5,6217,555,Ready to move,2020-01-16
+Mumbai,1 RK Studio Apartment,Dombivli East,11.35,3661,310,Ready to move,2020-01-24
+Mumbai,1 BHK Apartment,Dombivli West,40.0,7692,520,Ready to move,2020-01-15
+Mumbai,2 BHK Apartment,Dombivli West,63.0,7411,850,Ready to move,2020-01-24
+Mumbai,3 BHK Apartment,Dombivli West,50.0,3816,1310,Ready to move,2020-01-24
+Mumbai,1 BHK Apartment,Dombivli West,31.25,6250,500,Ready to move,2020-01-24
+Mumbai,2 BHK Apartment,Dombivli West,40.0,5128,780,Under Construction,2020-01-16
+Mumbai,3 BHK Apartment,Dombivli West,75.0,6465,1160,Ready to move,2020-01-24
+Mumbai,1 BHK Apartment,Dombivli West,39.0,7276,536,Ready to move,2020-01-24
+Mumbai,2 BHK Apartment,Dombivli West,64.0,7529,850,Ready to move,2020-01-24
+Mumbai,2 BHK Apartment,Dombivli West,38.0,5066,750,Under Construction,2020-01-24
+Mumbai,2 BHK Apartment,Kandivali East,199.0,17976,1107,Under Construction,2020-01-24
+Mumbai,2 BHK Apartment,Kandivali East,166.0,12500,1330,Under Construction,2020-01-24
+Mumbai,3 BHK Apartment,Kandivali East,212.0,12500,1697,Under Construction,2020-01-24
+Mumbai,2 BHK Apartment,Kandivali East,127.0,12500,1020,Under Construction,2020-01-24
+Mumbai,2 BHK Apartment,Kandivali East,140.0,23102,606,Under Construction,2020-01-24
+Mumbai,3 BHK Apartment,Kandivali East,209.0,24302,861,Under Construction,2020-01-24
+Mumbai,1 BHK Apartment,Kandivali East,85.0,19859,429,Under Construction,2020-01-15
+Mumbai,3 BHK Apartment,Kandivali East,275.0,16176,1700,Ready to move,2020-01-15
+Mumbai,2 BHK Apartment,Kandivali East,215.0,17200,1250,Ready to move,2020-01-15
+Mumbai,3 BHK Apartment,Kandivali East,240.0,21917,1095,Ready to move,2020-01-15
+Mumbai,3 BHK Apartment,Kandivali East,200.0,13333,1500,Ready to move,2020-01-15
+Mumbai,3 BHK Apartment,Kandivali East,260.0,19259,1350,Ready to move,2020-01-15
+Mumbai,2 BHK Apartment,Kandivali East,135.0,12857,1050,Ready to move,2020-01-15
+Mumbai,2 BHK Apartment,Kandivali East,215.0,19545,1100,Ready to move,2020-01-24
+Mumbai,1 BHK Apartment,Kandivali East,57.0,15616,365,Under Construction,2020-01-15
+Mumbai,2 BHK Apartment,Kandivali West,170.0,20481,830,Ready to move,2020-01-24
+Mumbai,2 BHK Apartment,Kandivali West,175.0,23553,743,Under Construction,2020-01-15
+Mumbai,2 BHK Apartment,Kandivali West,130.0,17333,750,Ready to move,2020-01-15
+Mumbai,2 BHK Apartment,Kandivali West,145.0,14342,1011,Ready to move,2020-01-15
+Mumbai,2 BHK Apartment,Kandivali West,180.0,14516,1240,Ready to move,2020-01-15
+Mumbai,2 BHK Apartment,Kandivali West,175.0,18229,960,Ready to move,2020-01-15
+Mumbai,2 BHK Apartment,Kandivali West,180.0,18907,952,Under Construction,2020-01-15
+Mumbai,2 BHK Apartment,Mahalaxmi,360.0,27972,1287,Ready to move,2020-01-15
+Mumbai,2 BHK Apartment,Mahalaxmi,400.0,31080,1287,Ready to move,2020-01-15
+Mumbai,3 BHK Apartment,Mahalaxmi,790.0,32999,2394,Ready to move,2020-01-15
+Mumbai,2 BHK Apartment,Mahalaxmi,400.0,40650,984,Under Construction,2020-01-15
+Mumbai,3 BHK Apartment,Mahalaxmi,591.0,33907,1743,Under Construction,2020-01-24
+Mumbai,5 BHK Apartment,Mahalaxmi,1100.0,28132,3910,Ready to move,2020-01-24
+Mumbai,3 BHK Apartment,Mahalaxmi,625.0,27448,2277,Ready to move,2020-01-15
+Mumbai,1 BHK Apartment,Mahalaxmi,160.0,30769,520,Ready to move,2020-01-15
+Mumbai,2 BHK Apartment,Mahalaxmi,600.0,44444,1350,Ready to move,2020-01-15
+Mumbai,2 BHK Apartment,Mahalaxmi,575.0,42592,1350,Ready to move,2020-01-15
+Mumbai,2 BHK Apartment,Mahalaxmi,360.0,45000,800,Under Construction,2020-01-15
+Mumbai,2 BHK Apartment,Mahalaxmi,360.0,42352,850,Under Construction,2020-01-15
+Mumbai,2 BHK Apartment,Mahalaxmi,360.0,40000,900,Under Construction,2020-01-24
+Mumbai,4 BHK Apartment,Powai,700.0,25000,2800,Ready to move,2020-01-15
+Mumbai,2 BHK Apartment,Powai,320.0,29090,1100,Ready to move,2020-01-15
+Mumbai,4 BHK Apartment,Powai,700.0,28282,2475,Ready to move,2020-01-15
+Mumbai,3 BHK Apartment,Powai,675.0,32142,2100,Ready to move,2020-01-15
+Mumbai,3 BHK Apartment,Powai,250.0,17897,1400,Under Construction,2020-01-15
+Mumbai,2 BHK Apartment,Powai,198.0,17256,1150,Under Construction,2020-01-15
+Mumbai,2 BHK Apartment,Powai,200.0,17467,1150,Under Construction,2020-01-15
+Mumbai,4 BHK Apartment,Powai,435.0,17431,2500,Under Construction,2020-01-15
+Mumbai,2 BHK Apartment,Powai,250.0,25853,967,Under Construction,2020-01-15
+Mumbai,2 BHK Apartment,Powai,175.0,16365,1074,Under Construction,2020-01-15
+Mumbai,2 BHK Apartment,Powai,220.00000000000003,20952,1050,Ready to move,2020-01-24
+Mumbai,2 BHK Apartment,Powai,165.0,16923,975,Ready to move,2020-01-16
+Mumbai,2 BHK Apartment,Powai,202.0,18913,1068,Under Construction,2020-01-16
+Mumbai,3 BHK Apartment,Powai,199.0,16583,1200,Under Construction,2020-01-24
+Mumbai,3 BHK Apartment,Powai,400.0,28571,1400,Ready to move,2020-01-15
+Mumbai,1 BHK Apartment,Powai,135.0,20209,668,Ready to move,2020-01-16
+Mumbai,3 BHK Apartment,Powai,800.0,38834,2060,Ready to move,2020-01-16
+Mumbai,2 BHK Apartment,Powai,175.0,18134,965,Ready to move,2020-01-15
+Mumbai,1 BHK Apartment,Ambernath East,29.0,4142,700,Ready to move,2020-01-15
+Mumbai,1 BHK Apartment,Ambernath East,25.0,3816,655,Ready to move,2020-01-15
+Mumbai,2 BHK Apartment,Ambernath East,36.0,3370,1068,Ready to move,2020-01-15
+Mumbai,1 BHK Apartment,Ambernath East,38.0,5205,730,Ready to move,2020-01-15
+Mumbai,2 BHK Apartment,Ambernath East,47.99,5332,900,Under Construction,2020-01-24
+Mumbai,1 BHK Apartment,Ambernath East,35.0,6055,578,Under Construction,2020-01-24
+Mumbai,1 BHK Apartment,Ambernath East,25.5,3695,690,Ready to move,2020-01-16
+Mumbai,1 BHK Apartment,Ambernath East,15.9,3925,405,Under Construction,2020-01-15
+Mumbai,4 BHK Apartment,Worli,704.0,31000,2274,Under Construction,2020-01-15
+Mumbai,3 BHK Apartment,Worli,1600.0,40785,3923,Ready to move,2020-01-15
+Mumbai,4 BHK Apartment,Worli,1800.0,47987,3751,Ready to move,2020-01-15
+Mumbai,3 BHK Apartment,Worli,1100.0,34920,3150,Ready to move,2020-01-15
+Mumbai,3 BHK Apartment,Worli,1024.0,33021,3101,Ready to move,2020-01-15
+Mumbai,3 BHK Apartment,Worli,800.0,22870,3498,Ready to move,2020-01-15
+Mumbai,3 BHK Apartment,Worli,1000.0,31496,3175,Ready to move,2020-01-24
+Mumbai,4 BHK Apartment,Worli,1400.0,38888,3600,Ready to move,2020-01-15
+Mumbai,4 BHK Apartment,Worli,1000.0,25575,3910,Ready to move,2020-01-15
+Mumbai,3 BHK Apartment,Worli,625.0,29761,2100,Ready to move,2020-01-24
+Mumbai,5 BHK Apartment,Worli,1300.0,23636,5500,Ready to move,2020-01-24
+Mumbai,4 BHK Apartment,Worli,1000.0,22222,4500,Ready to move,2020-01-24
+Mumbai,2 BHK Apartment,Juhu,350.0,29166,1200,Ready to move,2020-01-15
+Mumbai,2 BHK Apartment,Juhu,50.0,5000,1000,Ready to move,2020-01-15
+Mumbai,2 BHK Apartment,Juhu,245.00000000000003,24500,1000,Ready to move,2020-01-15
+Mumbai,1 BHK Apartment,Juhu,195.0,27857,700,Ready to move,2020-01-15
+Mumbai,3 BHK Apartment,Juhu,800.0,48484,1650,Ready to move,2020-01-15
+Mumbai,2 BHK Apartment,Juhu,235.0,23500,1000,Ready to move,2020-01-15
